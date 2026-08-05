@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sevandhi/Leetcode_solutions_dsa/tree/master/0025-reverse-nodes-in-k-group) |
+| [0092-reverse-linked-list-ii](https://github.com/sevandhi/Leetcode_solutions_dsa/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
