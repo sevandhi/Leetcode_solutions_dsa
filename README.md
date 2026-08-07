@@ -29,4 +29,12 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sevandhi/Leetcode_solutions_dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/sevandhi/Leetcode_solutions_dsa/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/sevandhi/Leetcode_solutions_dsa/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
