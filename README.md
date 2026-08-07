@@ -32,9 +32,14 @@
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/sevandhi/Leetcode_solutions_dsa/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sevandhi/Leetcode_solutions_dsa/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/sevandhi/Leetcode_solutions_dsa/tree/master/0162-find-peak-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/sevandhi/Leetcode_solutions_dsa/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
