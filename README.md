@@ -35,6 +35,7 @@
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/sevandhi/Leetcode_solutions_dsa/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sevandhi/Leetcode_solutions_dsa/tree/master/0162-find-peak-element) |
+| [1046-last-stone-weight](https://github.com/sevandhi/Leetcode_solutions_dsa/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/sevandhi/Leetcode_solutions_dsa/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/sevandhi/Leetcode_solutions_dsa/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
